@@ -1,6 +1,6 @@
 ### Welcome!!
 
-- 🔭 I'm a Front End Developer.
+- 🔭 I'm a Full Stack Developer.
 - 🌱 I'm currently studying Back End with flask
 - 📫 Contact: caiquefcavalheiro@gmail.com
 

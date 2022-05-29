@@ -1,7 +1,7 @@
 ### Welcome!!
 
 - 🔭 I'm a Full Stack Developer.
-- 🌱 I'm currently studying Back End with flask
+- 🌱 I'm currently studying Back End with Node
 - 📫 Contact: caiquefcavalheiro@gmail.com
 
 <div> 

@@ -1,7 +1,7 @@
 ### Welcome!!
 
 - 🔭 I'm a Full Stack Developer.
-- 🌱 I'm currently studying Back End with Node
+- 🌱 I'm currently learning more about react and typescript. 
 - 📫 Contact: caiquefcavalheiro@gmail.com
 
 <div> 
